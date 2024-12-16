@@ -1,8 +1,12 @@
 # Industrial Production Predictive Model
 
+Incase the project file above return an error, you can alternatively access the file by clicking [here](https://nbviewer.org/github/abdulmumeen-abdullahi/Industrial-Production-Predictive-Model/blob/main/Industrial%20Production%20Predictive%20Model.ipynb).
+
 ## Overview of the Problem <br/>
 Industrial production, particularly in utilities such as electric and gas, is a vital metric for assessing economic health and business performance. However, predicting industrial production trends is a complex task due to various influencing factors such as seasonality, demand fluctuations, and operational constraints. <br/>
 This project aims to address this challenge by developing a predictive model that forecasts production trends using historical data. Accurate predictions can inform businesses and policymakers, enabling better resource allocation, operational planning, and policy formulation.
+
+![image](https://github.com/user-attachments/assets/8806c0b8-b3fd-4e46-b84f-59bd4af0eb86)
 
 ## Data Used <br/>
 The dataset for this project was sourced from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/series/IPG2211A2N), containing the following two columns: <br/>
