@@ -5,6 +5,7 @@ Incase the project file above return an error, you can alternatively access the 
 ## Overview of the Problem <br/>
 Industrial production, particularly in utilities such as electric and gas, is a vital metric for assessing economic health and business performance. However, predicting industrial production trends is a complex task due to various influencing factors such as seasonality, demand fluctuations, and operational constraints. <br/>
 This project aims to address this challenge by developing a predictive model that forecasts production trends using historical data. Accurate predictions can inform businesses and policymakers, enabling better resource allocation, operational planning, and policy formulation.
+This project aligns with the United Nations Sustainable Development Goal 8: Decent Work and Economic Growth, by enabling data-driven decisions that support economic stability and growth through efficient resource utilization and predictive planning.
 
 ![image](https://github.com/user-attachments/assets/8806c0b8-b3fd-4e46-b84f-59bd4af0eb86)
 
