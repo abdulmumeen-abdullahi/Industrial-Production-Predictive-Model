@@ -62,9 +62,3 @@ The AR model demonstrated the most significant reduction in error, outperforming
 
 ## How the Model Can Help Businesses and Government Policy <br/>
 This predictive model provides valuable insights into industrial production trends, enabling policymakers to forecast utility demand, plan infrastructure, and formulate sustainable energy policies. It also helps assess the impact of economic regulations on production. For businesses, the model optimizes operations, enhances supply chain management, and supports data-driven decision-making. By leveraging rigorous analysis, it achieves accurate predictions that can revolutionize industrial production forecasting. This tool is a significant step toward smarter, more sustainable government policies and business strategies.
-
-**NOTE**: For deployment in real-world applications or customization to fit specific needs, visit [here](https://github.com/abdulmumeen-abdullahi/Industrial-Production-Predictive-Model-File).
-
-Abdullahi Olalekan Abdulmumeen <br/>
-Applied Data Scientist <br/>
-Olalekanabdulmumeen3@gmail.com
